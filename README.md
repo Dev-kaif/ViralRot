@@ -8,6 +8,21 @@
 
 ---
 
+## 🔒 Repository Notice
+
+⚠️ **Important:** The original production repository for ViralRot is **private**.
+
+This public repository exists **only for portfolio & showcase purposes** to demonstrate:
+
+- System design
+- Architecture decisions
+- Tech stack
+- Product scope
+
+Sensitive production code, credentials, and internal infrastructure details are **intentionally excluded**.
+
+---
+
 ## 🧠 What is ViralRot?
 
 **ViralRot** is a **production-grade AI video processing SaaS** that converts long-form content (podcasts, streams, informational videos, etc.) into:
