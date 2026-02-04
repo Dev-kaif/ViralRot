@@ -23,6 +23,22 @@ Sensitive production code, credentials, and internal infrastructure details are 
 
 ---
 
+## 🖼 Product Screenshots
+
+### 🏠 Landing Page
+
+![Landing Page](./images/landing.png)
+
+### 📊 Dashboard
+
+![Dashboard](./images/dashboard.png)
+
+### ✂️ Editor
+
+![Editor](./images/editor.png)
+
+---
+
 ## 🧠 What is ViralRot?
 
 **ViralRot** is a **production-grade AI video processing SaaS** that converts long-form content (podcasts, streams, informational videos, etc.) into:
@@ -105,22 +121,6 @@ Capabilities:
 - Whisper-based transcription
 - Manual review & correction UI
 - Re-render video with corrected subtitles
-
----
-
-## 🖼 Product Screenshots
-
-### 🏠 Landing Page
-
-![Landing Page](./images/landing.png)
-
-### 📊 Dashboard
-
-![Dashboard](./images/dashboard.png)
-
-### ✂️ Editor
-
-![Editor](./images/editor.png)
 
 ---
 
