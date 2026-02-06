@@ -4,6 +4,8 @@
 
 🌐 Website: [https://www.viralrot.lol/](https://www.viralrot.lol/)
 
+🎥 **YouTube Demo:** [https://youtu.be/2cxWAt7YDlQ](https://youtu.be/2cxWAt7YDlQ)
+
 <!-- 🎥 Demo: [https://youtu.be/zqqvq-Bwago](https://youtu.be/zqqvq-Bwago) -->
 
 ---
